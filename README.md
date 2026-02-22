@@ -22,12 +22,15 @@ Validated sales forecasting model in Excel (ETS vs MA), achieving 17.64% MAPE an
 
   Interactive Dashboard for visualization
 
-📈 Model Performance
-  Model	MAPE
-  ETS	17.64%
-  MA_3	30.61%
+  ## Model Performance
 
-  ETS reduced forecasting error by approximately 42% compared to the baseline model.
+| Model | MAPE |
+|--------|--------|
+| ETS | 17.64% |
+| 3-Month Moving Average | 30.61% |
+
+ETS reduced forecast error by approximately 42% compared to the baseline model.
+
 
 🛠 Tools Used
 
