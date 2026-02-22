@@ -33,7 +33,7 @@ ETS reduced forecast error by approximately 42% compared to the baseline model.
 
 
 ## Dashboard Preview
-
+![Dashboard](dashboard_screenshot.png)
 
 
 ## Tools & Techniques
