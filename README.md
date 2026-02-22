@@ -1,12 +1,12 @@
 # Sales-Forecasting-Excel-ETS
 Validated sales forecasting model in Excel (ETS vs MA), achieving 17.64% MAPE and 42% error reduction over baseline.
 
-📊 Sales Forecasting using Excel (ETS vs Moving Average)
-📌 Project Overview
+## Sales Forecasting using Excel (ETS vs Moving Average)
+## Project Overview
 
    This project demonstrates time-series sales forecasting using Microsoft Excel. The objective was to compare a baseline Moving Average model with an Exponential Smoothing (ETS) model using proper train-test        validation.
 
-🔍 Workflow
+## Workflow
 
   Data cleaning and monthly aggregation
 
