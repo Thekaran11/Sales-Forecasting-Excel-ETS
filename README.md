@@ -32,6 +32,10 @@ Validated sales forecasting model in Excel (ETS vs MA), achieving 17.64% MAPE an
 ETS reduced forecast error by approximately 42% compared to the baseline model.
 
 
+## Dashboard Preview
+
+
+
 ## Tools & Techniques
 
 - Microsoft Excel
