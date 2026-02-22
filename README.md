@@ -49,3 +49,11 @@ ETS reduced forecast error by approximately 42% compared to the baseline model.
 🎯 Key Insights
 
   The ETS model captured seasonality and trend more effectively than a simple moving average, demonstrating the importance of model validation and baseline benchmarking.
+
+
+## Repository Structure
+
+- Sales_Forecasting_ETS_Model.xlsx — Complete forecasting model with train/test validation
+- dashboard_screenshot.png — Dashboard visualization preview
+- README.md — Project documentation
+- LICENSE — MIT License
