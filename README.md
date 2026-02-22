@@ -32,16 +32,16 @@ Validated sales forecasting model in Excel (ETS vs MA), achieving 17.64% MAPE an
 ETS reduced forecast error by approximately 42% compared to the baseline model.
 
 
-🛠 Tools Used
+## Tools & Techniques
 
-  Microsoft Excel
+- Microsoft Excel
+- FORECAST.ETS()
+- Time-based Train/Test Split
+- Moving Average Baseline
+- MAPE Evaluation
+- Dashboard Design
 
-  Time Series Analysis
-
-  Error Metrics (MAPE)
-
-  Dashboard Design
-
+  
 🎯 Key Insights
 
   The ETS model captured seasonality and trend more effectively than a simple moving average, demonstrating the importance of model validation and baseline benchmarking.
